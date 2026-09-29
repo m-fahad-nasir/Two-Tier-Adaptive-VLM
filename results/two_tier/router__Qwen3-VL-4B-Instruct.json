@@ -1,0 +1,1782 @@
+{
+"mvb_action_count_070": [
+"counting",
+0.9999934434890747
+],
+"mvb_moving_count_070": [
+"counting",
+0.9999886751174927
+],
+"mvb_action_count_066": [
+"counting",
+0.9999767541885376
+],
+"mvb_moving_count_066": [
+"counting",
+0.9999918937683105
+],
+"mvb_action_count_051": [
+"counting",
+0.999995231628418
+],
+"mvb_moving_count_051": [
+"counting",
+0.9999929666519165
+],
+"mvb_action_count_023": [
+"counting",
+0.999995231628418
+],
+"mvb_moving_count_023": [
+"counting",
+0.9999855756759644
+],
+"mvb_action_count_060": [
+"counting",
+0.9999935626983643
+],
+"mvb_moving_count_060": [
+"counting",
+0.9999873638153076
+],
+"mvb_counterfactual_inference_072": [
+"event_understanding",
+0.9999889135360718
+],
+"mvb_scene_transition_070": [
+"event_understanding",
+0.9950504899024963
+],
+"mvb_state_change_070": [
+"object_recognition",
+0.9987550973892212
+],
+"mvb_unexpected_action_072": [
+"temporal_reasoning",
+0.9993282556533813
+],
+"mvb_counterfactual_inference_067": [
+"event_understanding",
+0.9999885559082031
+],
+"mvb_scene_transition_066": [
+"temporal_reasoning",
+0.9999910593032837
+],
+"mvb_state_change_066": [
+"object_recognition",
+0.9791117906570435
+],
+"mvb_unexpected_action_067": [
+"event_understanding",
+0.9885938167572021
+],
+"mvb_counterfactual_inference_051": [
+"event_understanding",
+0.9999935626983643
+],
+"mvb_scene_transition_051": [
+"temporal_reasoning",
+0.9994462132453918
+],
+"mvb_object_existence_070": [
+"object_recognition",
+0.9998124241828918
+],
+"mvb_object_interaction_073": [
+"object_recognition",
+0.9999110698699951
+],
+"mvb_object_existence_066": [
+"object_recognition",
+0.9998914003372192
+],
+"mvb_object_interaction_068": [
+"object_recognition",
+0.9999203681945801
+],
+"mvb_object_existence_051": [
+"object_recognition",
+0.9998233914375305
+],
+"mvb_object_interaction_053": [
+"object_recognition",
+0.9999203681945801
+],
+"mvb_object_existence_023": [
+"object_recognition",
+0.999841570854187
+],
+"mvb_object_interaction_024": [
+"object_recognition",
+0.9998363256454468
+],
+"mvb_object_existence_060": [
+"object_recognition",
+0.9998774528503418
+],
+"mvb_object_interaction_062": [
+"object_recognition",
+0.9999003410339355
+],
+"mvb_egocentric_navigation_070": [
+"temporal_reasoning",
+0.9874554872512817
+],
+"mvb_moving_direction_072": [
+"spatial_reasoning",
+0.9999418258666992
+],
+"mvb_object_shuffle_070": [
+"spatial_reasoning",
+0.8624858260154724
+],
+"mvb_egocentric_navigation_066": [
+"temporal_reasoning",
+0.5308060050010681
+],
+"mvb_moving_direction_066": [
+"spatial_reasoning",
+0.9999464750289917
+],
+"mvb_object_shuffle_066": [
+"spatial_reasoning",
+0.8624858260154724
+],
+"mvb_egocentric_navigation_051": [
+"temporal_reasoning",
+0.8164445161819458
+],
+"mvb_moving_direction_051": [
+"spatial_reasoning",
+0.999931812286377
+],
+"mvb_object_shuffle_051": [
+"spatial_reasoning",
+0.8624858260154724
+],
+"mvb_egocentric_navigation_023": [
+"temporal_reasoning",
+0.7546337842941284
+],
+"mvb_action_prediction_075": [
+"event_understanding",
+0.985630989074707
+],
+"mvb_action_sequence_080": [
+"temporal_reasoning",
+0.9993046522140503
+],
+"mvb_action_prediction_069": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_076": [
+"temporal_reasoning",
+0.9999734163284302
+],
+"mvb_action_prediction_053": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_059": [
+"temporal_reasoning",
+0.999982476234436
+],
+"mvb_action_prediction_023": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_026": [
+"temporal_reasoning",
+0.999966025352478
+],
+"mvb_action_prediction_063": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_068": [
+"temporal_reasoning",
+0.999966025352478
+],
+"vmme_228-2": [
+"counting",
+0.9999850988388062
+],
+"vmme_216-3": [
+"counting",
+0.9999933242797852
+],
+"vmme_168-2": [
+"counting",
+0.999991774559021
+],
+"vmme_088-2": [
+"counting",
+0.9999837875366211
+],
+"vmme_206-1": [
+"counting",
+0.9999911785125732
+],
+"vmme_077-2": [
+"counting",
+0.9999958276748657
+],
+"vmme_175-1": [
+"counting",
+0.9999942779541016
+],
+"vmme_325-2": [
+"counting",
+0.9999868869781494
+],
+"vmme_431-2": [
+"counting",
+0.9999866485595703
+],
+"vmme_284-3": [
+"counting",
+0.9999933242797852
+],
+"vmme_019-1": [
+"event_understanding",
+0.9999887943267822
+],
+"vmme_002-2": [
+"event_understanding",
+0.9999849796295166
+],
+"vmme_444-1": [
+"event_understanding",
+0.9999748468399048
+],
+"vmme_171-3": [
+"event_understanding",
+0.9974282383918762
+],
+"vmme_120-2": [
+"event_understanding",
+0.9999793767929077
+],
+"vmme_125-2": [
+"event_understanding",
+0.9999860525131226
+],
+"vmme_297-3": [
+"event_understanding",
+0.9997311234474182
+],
+"vmme_013-2": [
+"object_recognition",
+0.9995949864387512
+],
+"vmme_423-2": [
+"event_understanding",
+0.9999414682388306
+],
+"vmme_300-3": [
+"event_understanding",
+0.9999867677688599
+],
+"vmme_172-1": [
+"object_recognition",
+0.9997904896736145
+],
+"vmme_161-3": [
+"object_recognition",
+0.6220528483390808
+],
+"vmme_134-3": [
+"object_recognition",
+0.9996694326400757
+],
+"vmme_059-1": [
+"object_recognition",
+0.7539466619491577
+],
+"vmme_153-3": [
+"object_recognition",
+0.9632128477096558
+],
+"vmme_045-1": [
+"object_recognition",
+0.9522929787635803
+],
+"vmme_141-3": [
+"object_recognition",
+0.9239924550056458
+],
+"vmme_389-2": [
+"object_recognition",
+0.9668720364570618
+],
+"vmme_508-2": [
+"object_recognition",
+0.957717776298523
+],
+"vmme_218-3": [
+"object_recognition",
+0.9997941851615906
+],
+"vmme_567-3": [
+"temporal_reasoning",
+0.9991111159324646
+],
+"vmme_049-2": [
+"object_recognition",
+0.9854576587677002
+],
+"vmme_129-3": [
+"spatial_reasoning",
+0.9979773163795471
+],
+"vmme_265-2": [
+"object_recognition",
+0.9995148181915283
+],
+"vmme_299-2": [
+"spatial_reasoning",
+0.93123459815979
+],
+"vmme_057-2": [
+"temporal_reasoning",
+0.9999531507492065
+],
+"vmme_006-2": [
+"event_understanding",
+0.9999591112136841
+],
+"vmme_465-3": [
+"counting",
+0.8765451312065125
+],
+"vmme_385-1": [
+"counting",
+0.9991899132728577
+],
+"vmme_387-1": [
+"temporal_reasoning",
+0.9999390840530396
+],
+"vmme_500-1": [
+"temporal_reasoning",
+0.9999457597732544
+],
+"vmme_037-3": [
+"temporal_reasoning",
+0.9999804496765137
+],
+"vmme_529-1": [
+"temporal_reasoning",
+0.9999767541885376
+],
+"vmme_472-3": [
+"temporal_reasoning",
+0.9999420642852783
+],
+"vmme_585-3": [
+"temporal_reasoning",
+0.9999810457229614
+],
+"mvb_action_count_102": [
+"counting",
+0.9999935626983643
+],
+"mvb_moving_count_102": [
+"counting",
+0.9999927282333374
+],
+"mvb_action_count_179": [
+"counting",
+0.999995231628418
+],
+"mvb_moving_count_179": [
+"counting",
+0.999992847442627
+],
+"mvb_action_count_092": [
+"counting",
+0.9999934434890747
+],
+"mvb_moving_count_092": [
+"counting",
+0.999994158744812
+],
+"mvb_action_count_014": [
+"counting",
+0.9999935626983643
+],
+"mvb_moving_count_014": [
+"counting",
+0.9999935626983643
+],
+"mvb_action_count_106": [
+"counting",
+0.9999935626983643
+],
+"mvb_moving_count_106": [
+"counting",
+0.9999861717224121
+],
+"mvb_action_count_071": [
+"counting",
+0.999995231628418
+],
+"mvb_moving_count_071": [
+"counting",
+0.999992847442627
+],
+"mvb_action_count_188": [
+"counting",
+0.9999935626983643
+],
+"mvb_moving_count_188": [
+"counting",
+0.9999909400939941
+],
+"mvb_action_count_020": [
+"counting",
+0.9999767541885376
+],
+"mvb_moving_count_020": [
+"counting",
+0.9999939203262329
+],
+"mvb_action_count_199": [
+"counting",
+0.9999767541885376
+],
+"mvb_moving_count_199": [
+"counting",
+0.999992847442627
+],
+"mvb_action_count_121": [
+"counting",
+0.9999935626983643
+],
+"mvb_moving_count_121": [
+"counting",
+0.9999938011169434
+],
+"mvb_action_count_074": [
+"counting",
+0.999995231628418
+],
+"mvb_moving_count_074": [
+"counting",
+0.999993085861206
+],
+"mvb_action_count_087": [
+"counting",
+0.9999934434890747
+],
+"mvb_moving_count_087": [
+"counting",
+0.999993085861206
+],
+"mvb_action_count_116": [
+"counting",
+0.9999934434890747
+],
+"mvb_moving_count_116": [
+"counting",
+0.9999897480010986
+],
+"mvb_action_count_099": [
+"counting",
+0.999995231628418
+],
+"mvb_moving_count_099": [
+"counting",
+0.9999908208847046
+],
+"mvb_action_count_103": [
+"counting",
+0.9999767541885376
+],
+"mvb_moving_count_103": [
+"counting",
+0.9999957084655762
+],
+"mvb_action_count_151": [
+"counting",
+0.9999767541885376
+],
+"mvb_moving_count_151": [
+"counting",
+0.9999957084655762
+],
+"mvb_action_count_130": [
+"counting",
+0.9999935626983643
+],
+"mvb_moving_count_130": [
+"counting",
+0.9999879598617554
+],
+"mvb_action_count_149": [
+"counting",
+0.9999767541885376
+],
+"mvb_counterfactual_inference_102": [
+"event_understanding",
+0.9999855756759644
+],
+"mvb_scene_transition_102": [
+"temporal_reasoning",
+0.9999910593032837
+],
+"mvb_state_change_102": [
+"object_recognition",
+0.9987550973892212
+],
+"mvb_unexpected_action_102": [
+"event_understanding",
+0.9999574422836304
+],
+"mvb_counterfactual_inference_179": [
+"event_understanding",
+0.9999892711639404
+],
+"mvb_scene_transition_179": [
+"temporal_reasoning",
+0.9999910593032837
+],
+"mvb_state_change_179": [
+"event_understanding",
+0.9999516010284424
+],
+"mvb_unexpected_action_179": [
+"event_understanding",
+0.9999809265136719
+],
+"mvb_counterfactual_inference_092": [
+"event_understanding",
+0.9913235902786255
+],
+"mvb_scene_transition_092": [
+"event_understanding",
+0.9952119588851929
+],
+"mvb_state_change_092": [
+"object_recognition",
+0.9987550973892212
+],
+"mvb_unexpected_action_092": [
+"object_recognition",
+0.6981533765792847
+],
+"mvb_counterfactual_inference_014": [
+"event_understanding",
+0.997880220413208
+],
+"mvb_scene_transition_014": [
+"temporal_reasoning",
+0.9999910593032837
+],
+"mvb_state_change_014": [
+"object_recognition",
+0.9791117906570435
+],
+"mvb_unexpected_action_014": [
+"object_recognition",
+0.530544638633728
+],
+"mvb_counterfactual_inference_106": [
+"event_understanding",
+0.9999876022338867
+],
+"mvb_scene_transition_106": [
+"event_understanding",
+0.9952119588851929
+],
+"mvb_state_change_106": [
+"object_recognition",
+0.9791117906570435
+],
+"mvb_unexpected_action_106": [
+"event_understanding",
+0.9999551773071289
+],
+"mvb_counterfactual_inference_071": [
+"event_understanding",
+0.9999896287918091
+],
+"mvb_scene_transition_071": [
+"temporal_reasoning",
+0.999703586101532
+],
+"mvb_state_change_071": [
+"object_recognition",
+0.9987550973892212
+],
+"mvb_unexpected_action_071": [
+"temporal_reasoning",
+0.9999245405197144
+],
+"mvb_counterfactual_inference_188": [
+"event_understanding",
+0.999991774559021
+],
+"mvb_scene_transition_188": [
+"event_understanding",
+0.9952119588851929
+],
+"mvb_state_change_188": [
+"event_understanding",
+0.9999516010284424
+],
+"mvb_unexpected_action_188": [
+"event_understanding",
+0.9999796152114868
+],
+"mvb_counterfactual_inference_020": [
+"event_understanding",
+0.9999959468841553
+],
+"mvb_scene_transition_020": [
+"event_understanding",
+0.5620274543762207
+],
+"mvb_state_change_020": [
+"event_understanding",
+0.9999516010284424
+],
+"mvb_unexpected_action_020": [
+"event_understanding",
+0.9999731779098511
+],
+"mvb_counterfactual_inference_199": [
+"event_understanding",
+0.999981164932251
+],
+"mvb_scene_transition_199": [
+"temporal_reasoning",
+0.999703586101532
+],
+"mvb_state_change_199": [
+"object_recognition",
+0.9987550973892212
+],
+"mvb_object_existence_102": [
+"object_recognition",
+0.9998020529747009
+],
+"mvb_object_interaction_102": [
+"object_recognition",
+0.9999203681945801
+],
+"mvb_object_existence_179": [
+"object_recognition",
+0.999911904335022
+],
+"mvb_object_interaction_179": [
+"object_recognition",
+0.9999035596847534
+],
+"mvb_object_existence_092": [
+"object_recognition",
+0.9995949864387512
+],
+"mvb_object_interaction_092": [
+"object_recognition",
+0.9999203681945801
+],
+"mvb_object_existence_014": [
+"object_recognition",
+0.9998080134391785
+],
+"mvb_object_interaction_014": [
+"object_recognition",
+0.9998363256454468
+],
+"mvb_object_existence_106": [
+"object_recognition",
+0.9998830556869507
+],
+"mvb_object_interaction_106": [
+"object_recognition",
+0.9999203681945801
+],
+"mvb_object_existence_071": [
+"object_recognition",
+0.9996724128723145
+],
+"mvb_object_interaction_071": [
+"object_recognition",
+0.9997885823249817
+],
+"mvb_object_existence_188": [
+"object_recognition",
+0.9996706247329712
+],
+"mvb_object_interaction_188": [
+"object_recognition",
+0.9999110698699951
+],
+"mvb_object_existence_020": [
+"object_recognition",
+0.9997653365135193
+],
+"mvb_object_interaction_020": [
+"object_recognition",
+0.9997541308403015
+],
+"mvb_object_existence_199": [
+"object_recognition",
+0.9997130036354065
+],
+"mvb_object_interaction_199": [
+"object_recognition",
+0.9999203681945801
+],
+"mvb_object_existence_121": [
+"object_recognition",
+0.9998525381088257
+],
+"mvb_object_interaction_121": [
+"object_recognition",
+0.9997885823249817
+],
+"mvb_object_existence_074": [
+"object_recognition",
+0.999764621257782
+],
+"mvb_object_interaction_074": [
+"object_recognition",
+0.9999035596847534
+],
+"mvb_object_existence_087": [
+"object_recognition",
+0.999850869178772
+],
+"mvb_object_interaction_087": [
+"object_recognition",
+0.9997885823249817
+],
+"mvb_object_existence_116": [
+"object_recognition",
+0.9995444416999817
+],
+"mvb_object_interaction_116": [
+"object_recognition",
+0.9999203681945801
+],
+"mvb_object_existence_099": [
+"object_recognition",
+0.9998618364334106
+],
+"mvb_object_interaction_099": [
+"object_recognition",
+0.9999110698699951
+],
+"mvb_object_existence_103": [
+"object_recognition",
+0.9994872808456421
+],
+"mvb_object_interaction_103": [
+"object_recognition",
+0.9999110698699951
+],
+"mvb_object_existence_151": [
+"object_recognition",
+0.9999122619628906
+],
+"mvb_object_interaction_151": [
+"object_recognition",
+0.9999203681945801
+],
+"mvb_object_existence_130": [
+"object_recognition",
+0.9998636245727539
+],
+"mvb_object_interaction_130": [
+"object_recognition",
+0.9999203681945801
+],
+"mvb_object_existence_149": [
+"object_recognition",
+0.9998779296875
+],
+"mvb_egocentric_navigation_102": [
+"event_understanding",
+0.7307671904563904
+],
+"mvb_moving_direction_102": [
+"spatial_reasoning",
+0.9999450445175171
+],
+"mvb_object_shuffle_102": [
+"spatial_reasoning",
+0.8624858260154724
+],
+"mvb_egocentric_navigation_179": [
+"event_understanding",
+0.8927257061004639
+],
+"mvb_moving_direction_179": [
+"spatial_reasoning",
+0.9999401569366455
+],
+"mvb_object_shuffle_179": [
+"spatial_reasoning",
+0.8624858260154724
+],
+"mvb_egocentric_navigation_092": [
+"event_understanding",
+0.7547550201416016
+],
+"mvb_moving_direction_092": [
+"spatial_reasoning",
+0.9999358654022217
+],
+"mvb_object_shuffle_092": [
+"spatial_reasoning",
+0.8624858260154724
+],
+"mvb_egocentric_navigation_014": [
+"event_understanding",
+0.7308074235916138
+],
+"mvb_moving_direction_014": [
+"spatial_reasoning",
+0.9999397993087769
+],
+"mvb_object_shuffle_014": [
+"spatial_reasoning",
+0.8624858260154724
+],
+"mvb_egocentric_navigation_106": [
+"temporal_reasoning",
+0.8172352910041809
+],
+"mvb_moving_direction_106": [
+"spatial_reasoning",
+0.9999450445175171
+],
+"mvb_object_shuffle_106": [
+"spatial_reasoning",
+0.8624858260154724
+],
+"mvb_egocentric_navigation_071": [
+"event_understanding",
+0.8518255949020386
+],
+"mvb_moving_direction_071": [
+"spatial_reasoning",
+0.9999439716339111
+],
+"mvb_object_shuffle_071": [
+"spatial_reasoning",
+0.8624858260154724
+],
+"mvb_egocentric_navigation_188": [
+"event_understanding",
+0.9739219546318054
+],
+"mvb_moving_direction_188": [
+"spatial_reasoning",
+0.9999245405197144
+],
+"mvb_object_shuffle_188": [
+"spatial_reasoning",
+0.8624858260154724
+],
+"mvb_egocentric_navigation_020": [
+"event_understanding",
+0.6781364679336548
+],
+"mvb_moving_direction_020": [
+"spatial_reasoning",
+0.9999434947967529
+],
+"mvb_object_shuffle_020": [
+"spatial_reasoning",
+0.8624858260154724
+],
+"mvb_egocentric_navigation_199": [
+"object_recognition",
+0.5590798258781433
+],
+"mvb_moving_direction_199": [
+"spatial_reasoning",
+0.9999469518661499
+],
+"mvb_object_shuffle_199": [
+"spatial_reasoning",
+0.8624858260154724
+],
+"mvb_egocentric_navigation_121": [
+"event_understanding",
+0.7771168351173401
+],
+"mvb_moving_direction_121": [
+"spatial_reasoning",
+0.9999246597290039
+],
+"mvb_object_shuffle_121": [
+"spatial_reasoning",
+0.8624858260154724
+],
+"mvb_egocentric_navigation_074": [
+"event_understanding",
+0.9397984147071838
+],
+"mvb_moving_direction_074": [
+"spatial_reasoning",
+0.9999434947967529
+],
+"mvb_object_shuffle_074": [
+"spatial_reasoning",
+0.8624858260154724
+],
+"mvb_egocentric_navigation_087": [
+"event_understanding",
+0.7056408524513245
+],
+"mvb_moving_direction_087": [
+"spatial_reasoning",
+0.9999359846115112
+],
+"mvb_action_prediction_102": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_102": [
+"temporal_reasoning",
+0.9997820258140564
+],
+"mvb_action_prediction_179": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_179": [
+"temporal_reasoning",
+0.999393105506897
+],
+"mvb_action_prediction_092": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_092": [
+"temporal_reasoning",
+0.9999830722808838
+],
+"mvb_action_prediction_014": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_014": [
+"temporal_reasoning",
+0.9999043941497803
+],
+"mvb_action_prediction_106": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_106": [
+"temporal_reasoning",
+0.9999067783355713
+],
+"mvb_action_prediction_071": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_071": [
+"temporal_reasoning",
+0.9999542236328125
+],
+"mvb_action_prediction_188": [
+"event_understanding",
+0.8011656999588013
+],
+"mvb_action_sequence_188": [
+"temporal_reasoning",
+0.9999043941497803
+],
+"mvb_action_prediction_020": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_020": [
+"temporal_reasoning",
+0.9997288584709167
+],
+"mvb_action_prediction_199": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_199": [
+"temporal_reasoning",
+0.9999457597732544
+],
+"mvb_action_prediction_121": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_121": [
+"temporal_reasoning",
+0.9999390840530396
+],
+"mvb_action_prediction_074": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_074": [
+"temporal_reasoning",
+0.9999366998672485
+],
+"mvb_action_prediction_116": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_087": [
+"temporal_reasoning",
+0.9995330572128296
+],
+"mvb_action_prediction_099": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_116": [
+"temporal_reasoning",
+0.9999254941940308
+],
+"mvb_action_prediction_103": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_099": [
+"temporal_reasoning",
+0.999763548374176
+],
+"mvb_action_prediction_151": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_103": [
+"temporal_reasoning",
+0.9998623132705688
+],
+"mvb_action_prediction_130": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_151": [
+"temporal_reasoning",
+0.9998137354850769
+],
+"mvb_action_prediction_149": [
+"temporal_reasoning",
+0.651337742805481
+],
+"mvb_action_sequence_130": [
+"temporal_reasoning",
+0.999381422996521
+],
+"mvb_action_prediction_052": [
+"temporal_reasoning",
+0.651337742805481
+],
+"vmme_246-3": [
+"counting",
+0.9999719858169556
+],
+"vmme_457-2": [
+"counting",
+0.9999939203262329
+],
+"vmme_223-1": [
+"counting",
+0.9999911785125732
+],
+"vmme_044-1": [
+"counting",
+0.9999904632568359
+],
+"vmme_255-2": [
+"counting",
+0.9999920129776001
+],
+"vmme_177-2": [
+"counting",
+0.9999947547912598
+],
+"vmme_501-2": [
+"counting",
+0.9999895095825195
+],
+"vmme_063-1": [
+"counting",
+0.9999852180480957
+],
+"vmme_595-3": [
+"counting",
+0.9999955892562866
+],
+"vmme_286-1": [
+"counting",
+0.999993085861206
+],
+"vmme_182-2": [
+"counting",
+0.9999938011169434
+],
+"vmme_544-1": [
+"counting",
+0.9996756315231323
+],
+"vmme_210-1": [
+"counting",
+0.9999885559082031
+],
+"vmme_281-2": [
+"counting",
+0.9999934434890747
+],
+"vmme_241-2": [
+"counting",
+0.9999815225601196
+],
+"vmme_248-1": [
+"counting",
+0.9999872446060181
+],
+"vmme_410-1": [
+"counting",
+0.9999910593032837
+],
+"vmme_314-1": [
+"counting",
+0.9999847412109375
+],
+"vmme_402-1": [
+"counting",
+0.9981741905212402
+],
+"vmme_138-3": [
+"counting",
+0.9999923706054688
+],
+"vmme_001-3": [
+"counting",
+0.9999805688858032
+],
+"vmme_572-3": [
+"counting",
+0.9999617338180542
+],
+"vmme_432-2": [
+"counting",
+0.9999959468841553
+],
+"vmme_111-1": [
+"counting",
+0.9999936819076538
+],
+"vmme_310-1": [
+"counting",
+0.9999887943267822
+],
+"vmme_512-2": [
+"counting",
+0.9999910593032837
+],
+"vmme_499-3": [
+"counting",
+0.9999722242355347
+],
+"vmme_583-2": [
+"counting",
+0.9999864101409912
+],
+"vmme_437-3": [
+"counting",
+0.9999895095825195
+],
+"vmme_152-1": [
+"counting",
+0.9999946355819702
+],
+"vmme_065-3": [
+"counting",
+0.9999868869781494
+],
+"vmme_215-3": [
+"counting",
+0.9999871253967285
+],
+"vmme_135-3": [
+"counting",
+0.9999938011169434
+],
+"vmme_155-3": [
+"counting",
+0.9999921321868896
+],
+"vmme_442-2": [
+"counting",
+0.9999933242797852
+],
+"vmme_575-2": [
+"object_recognition",
+0.9999104738235474
+],
+"vmme_313-3": [
+"object_recognition",
+0.5914549827575684
+],
+"vmme_533-3": [
+"event_understanding",
+0.999934196472168
+],
+"vmme_092-3": [
+"event_understanding",
+0.9999690055847168
+],
+"vmme_404-3": [
+"event_understanding",
+0.9999924898147583
+],
+"vmme_371-3": [
+"event_understanding",
+0.9999862909317017
+],
+"vmme_106-2": [
+"object_recognition",
+0.9994439482688904
+],
+"vmme_448-2": [
+"event_understanding",
+0.9999867677688599
+],
+"vmme_481-2": [
+"event_understanding",
+0.9999781847000122
+],
+"vmme_408-1": [
+"object_recognition",
+0.9997789263725281
+],
+"vmme_537-1": [
+"event_understanding",
+0.9996803998947144
+],
+"vmme_486-3": [
+"event_understanding",
+0.9999866485595703
+],
+"vmme_111-2": [
+"event_understanding",
+0.9997991919517517
+],
+"vmme_009-3": [
+"event_understanding",
+0.9999697208404541
+],
+"vmme_107-3": [
+"temporal_reasoning",
+0.9999504089355469
+],
+"vmme_315-3": [
+"event_understanding",
+0.8342429399490356
+],
+"vmme_005-2": [
+"event_understanding",
+0.9999891519546509
+],
+"vmme_535-3": [
+"event_understanding",
+0.9999920129776001
+],
+"vmme_145-2": [
+"event_understanding",
+0.9999902248382568
+],
+"vmme_201-2": [
+"event_understanding",
+0.9999861717224121
+],
+"vmme_487-2": [
+"event_understanding",
+0.9989581108093262
+],
+"vmme_391-2": [
+"event_understanding",
+0.9999247789382935
+],
+"vmme_363-2": [
+"event_understanding",
+0.9999790191650391
+],
+"vmme_549-3": [
+"object_recognition",
+0.9998144507408142
+],
+"vmme_150-3": [
+"event_understanding",
+0.9999892711639404
+],
+"vmme_415-3": [
+"event_understanding",
+0.9999685287475586
+],
+"vmme_351-2": [
+"event_understanding",
+0.9999911785125732
+],
+"vmme_503-2": [
+"event_understanding",
+0.9999922513961792
+],
+"vmme_306-3": [
+"event_understanding",
+0.9999434947967529
+],
+"vmme_352-1": [
+"event_understanding",
+0.9999914169311523
+],
+"vmme_238-3": [
+"object_recognition",
+0.9993246793746948
+],
+"vmme_542-3": [
+"object_recognition",
+0.9814039468765259
+],
+"vmme_571-2": [
+"event_understanding",
+0.9999247789382935
+],
+"vmme_373-2": [
+"event_understanding",
+0.999043881893158
+],
+"vmme_564-2": [
+"event_understanding",
+0.9997439980506897
+],
+"vmme_192-3": [
+"object_recognition",
+0.9998117089271545
+],
+"vmme_539-2": [
+"object_recognition",
+0.9873461127281189
+],
+"vmme_197-1": [
+"object_recognition",
+0.9998579025268555
+],
+"vmme_149-2": [
+"object_recognition",
+0.9975220561027527
+],
+"vmme_371-2": [
+"object_recognition",
+0.9933168888092041
+],
+"vmme_051-2": [
+"object_recognition",
+0.6214079260826111
+],
+"vmme_600-1": [
+"object_recognition",
+0.9997708201408386
+],
+"vmme_222-2": [
+"object_recognition",
+0.9996651411056519
+],
+"vmme_422-1": [
+"event_understanding",
+0.6223959922790527
+],
+"vmme_165-1": [
+"temporal_reasoning",
+0.9954532384872437
+],
+"vmme_190-2": [
+"object_recognition",
+0.9997888207435608
+],
+"vmme_280-2": [
+"counting",
+0.9999743700027466
+],
+"vmme_237-1": [
+"object_recognition",
+0.9997259974479675
+],
+"vmme_279-1": [
+"object_recognition",
+0.9999182224273682
+],
+"vmme_515-3": [
+"object_recognition",
+0.9999243021011353
+],
+"vmme_378-3": [
+"object_recognition",
+0.9992399215698242
+],
+"vmme_548-3": [
+"event_understanding",
+0.5874676704406738
+],
+"vmme_290-2": [
+"temporal_reasoning",
+0.9971133470535278
+],
+"vmme_502-2": [
+"temporal_reasoning",
+0.7307491302490234
+],
+"vmme_464-2": [
+"temporal_reasoning",
+0.7721096873283386
+],
+"vmme_100-3": [
+"object_recognition",
+0.9994207620620728
+],
+"vmme_132-3": [
+"object_recognition",
+0.9973012804985046
+],
+"vmme_302-1": [
+"event_understanding",
+0.9999918937683105
+],
+"vmme_370-2": [
+"object_recognition",
+0.9998410940170288
+],
+"vmme_597-3": [
+"object_recognition",
+0.9994696974754333
+],
+"vmme_375-2": [
+"object_recognition",
+0.9997227787971497
+],
+"vmme_324-2": [
+"object_recognition",
+0.9997847676277161
+],
+"vmme_103-2": [
+"object_recognition",
+0.9998741149902344
+],
+"vmme_128-2": [
+"temporal_reasoning",
+0.5620714426040649
+],
+"vmme_475-1": [
+"object_recognition",
+0.9996955394744873
+],
+"vmme_574-1": [
+"temporal_reasoning",
+0.9997586607933044
+],
+"vmme_246-2": [
+"object_recognition",
+0.9998084902763367
+],
+"vmme_587-3": [
+"temporal_reasoning",
+0.9945111274719238
+],
+"vmme_298-1": [
+"object_recognition",
+0.5896808505058289
+],
+"vmme_170-3": [
+"temporal_reasoning",
+0.9954532384872437
+],
+"vmme_490-1": [
+"event_understanding",
+0.9997105002403259
+],
+"vmme_342-2": [
+"object_recognition",
+0.9249153733253479
+],
+"vmme_185-3": [
+"object_recognition",
+0.9867410063743591
+],
+"vmme_058-1": [
+"event_understanding",
+0.9986989498138428
+],
+"vmme_255-3": [
+"spatial_reasoning",
+0.9994980096817017
+],
+"vmme_598-3": [
+"object_recognition",
+0.9868956208229065
+],
+"vmme_246-1": [
+"event_understanding",
+0.970398485660553
+],
+"vmme_262-2": [
+"temporal_reasoning",
+0.9611881375312805
+],
+"vmme_082-3": [
+"spatial_reasoning",
+0.9919187426567078
+],
+"vmme_487-3": [
+"event_understanding",
+0.8651374578475952
+],
+"vmme_263-3": [
+"spatial_reasoning",
+0.9994747042655945
+],
+"vmme_484-1": [
+"event_understanding",
+0.9998775720596313
+],
+"vmme_044-2": [
+"event_understanding",
+0.999992847442627
+],
+"vmme_261-1": [
+"event_understanding",
+0.9979031085968018
+],
+"vmme_554-2": [
+"object_recognition",
+0.9317492246627808
+],
+"vmme_043-3": [
+"event_understanding",
+0.9738304018974304
+],
+"vmme_483-1": [
+"event_understanding",
+0.9999539852142334
+],
+"vmme_126-1": [
+"event_understanding",
+0.992828905582428
+],
+"vmme_052-1": [
+"event_understanding",
+0.9956547021865845
+],
+"vmme_346-2": [
+"spatial_reasoning",
+0.995214581489563
+],
+"vmme_360-2": [
+"event_understanding",
+0.9999794960021973
+],
+"vmme_309-1": [
+"event_understanding",
+0.9795238375663757
+],
+"vmme_368-3": [
+"event_understanding",
+0.9993651509284973
+],
+"vmme_488-1": [
+"event_understanding",
+0.9999085664749146
+],
+"vmme_201-1": [
+"event_understanding",
+0.4998345971107483
+],
+"vmme_060-3": [
+"event_understanding",
+0.9999085664749146
+],
+"vmme_187-3": [
+"object_recognition",
+0.8172404766082764
+],
+"vmme_562-2": [
+"spatial_reasoning",
+0.9695119261741638
+],
+"vmme_151-3": [
+"spatial_reasoning",
+0.9165523648262024
+],
+"vmme_242-3": [
+"spatial_reasoning",
+0.9956465363502502
+],
+"vmme_249-2": [
+"spatial_reasoning",
+0.9985295534133911
+],
+"vmme_403-2": [
+"spatial_reasoning",
+0.9993686079978943
+],
+"vmme_264-1": [
+"event_understanding",
+0.9887735843658447
+],
+"vmme_055-2": [
+"event_understanding",
+0.9999701976776123
+],
+"vmme_047-3": [
+"event_understanding",
+0.9999798536300659
+],
+"vmme_497-1": [
+"temporal_reasoning",
+0.9999489784240723
+],
+"vmme_305-3": [
+"temporal_reasoning",
+0.9999527931213379
+],
+"vmme_551-3": [
+"temporal_reasoning",
+0.9999827146530151
+],
+"vmme_527-1": [
+"temporal_reasoning",
+0.9999687671661377
+],
+"vmme_321-2": [
+"temporal_reasoning",
+0.9999899864196777
+],
+"vmme_557-1": [
+"temporal_reasoning",
+0.9999932050704956
+],
+"vmme_566-3": [
+"temporal_reasoning",
+0.9998804330825806
+],
+"vmme_327-2": [
+"temporal_reasoning",
+0.9999783039093018
+],
+"vmme_012-2": [
+"temporal_reasoning",
+0.9999271631240845
+],
+"vmme_322-2": [
+"temporal_reasoning",
+0.9998247027397156
+],
+"vmme_499-1": [
+"temporal_reasoning",
+0.9999420642852783
+],
+"vmme_007-2": [
+"temporal_reasoning",
+0.7689728140830994
+],
+"vmme_367-2": [
+"temporal_reasoning",
+0.9685333967208862
+],
+"vmme_461-3": [
+"temporal_reasoning",
+0.9999865293502808
+],
+"vmme_561-2": [
+"temporal_reasoning",
+0.9999943971633911
+],
+"vmme_534-1": [
+"object_recognition",
+0.9646790623664856
+],
+"vmme_525-1": [
+"temporal_reasoning",
+0.9999722242355347
+],
+"vmme_582-3": [
+"temporal_reasoning",
+0.9999874830245972
+],
+"vmme_386-2": [
+"temporal_reasoning",
+0.9998144507408142
+],
+"vmme_522-3": [
+"temporal_reasoning",
+0.9999886751174927
+],
+"vmme_558-3": [
+"temporal_reasoning",
+0.9999110698699951
+],
+"vmme_492-2": [
+"temporal_reasoning",
+0.9990041851997375
+],
+"vmme_351-3": [
+"temporal_reasoning",
+0.9999912977218628
+],
+"vmme_523-1": [
+"temporal_reasoning",
+0.9999767541885376
+],
+"vmme_466-2": [
+"temporal_reasoning",
+0.9999326467514038
+],
+"vmme_352-3": [
+"object_recognition",
+0.9958160519599915
+],
+"vmme_549-2": [
+"temporal_reasoning",
+0.9999514818191528
+],
+"vmme_307-1": [
+"temporal_reasoning",
+0.9999428987503052
+],
+"vmme_592-1": [
+"temporal_reasoning",
+0.9996215105056763
+],
+"vmme_479-1": [
+"temporal_reasoning",
+0.9999849796295166
+],
+"vmme_496-1": [
+"temporal_reasoning",
+0.9999524354934692
+],
+"vmme_471-2": [
+"temporal_reasoning",
+0.9998062252998352
+],
+"vmme_599-2": [
+"temporal_reasoning",
+0.9998822212219238
+],
+"vmme_559-2": [
+"temporal_reasoning",
+0.9999804496765137
+],
+"vmme_448-3": [
+"temporal_reasoning",
+0.9997867941856384
+]
+}

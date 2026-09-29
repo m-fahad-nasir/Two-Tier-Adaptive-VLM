@@ -1,0 +1,15 @@
+# Install torch with CUDA first (https://pytorch.org), then:  pip install -r requirements.txt
+huggingface_hub>=0.34
+transformers>=4.57
+accelerate
+bitsandbytes
+opencv-python
+pillow
+numpy
+pandas
+pyarrow
+tqdm
+matplotlib
+openai>=1.97
+python-dotenv
+ipykernel

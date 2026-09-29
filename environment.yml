@@ -1,0 +1,27 @@
+# Recreate:  conda env create -f environment.yml
+#            python -m ipykernel install --user --name adaptive_vlm --display-name "Python (adaptive_vlm)"
+name: adaptive_vlm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu128
+      - torch==2.11.0+cu128
+      - torchvision==0.26.0+cu128
+      - transformers==5.17.0
+      - accelerate==1.15.0
+      - bitsandbytes==0.50.2
+      - huggingface_hub==1.31.0
+      - opencv-python==5.0.0.93
+      - pillow==12.3.0
+      - numpy==2.5.2
+      - pandas==3.0.5
+      - pyarrow==25.0.1
+      - tqdm==4.70.1
+      - matplotlib==3.11.2
+      - openai==3.14.1
+      - python-dotenv==1.2.3
+      - ipykernel==7.3.0

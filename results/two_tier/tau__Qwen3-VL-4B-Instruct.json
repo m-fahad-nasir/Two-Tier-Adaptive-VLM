@@ -1,0 +1,238 @@
+{
+ "tau": 0.5,
+ "n_calib": 95,
+ "grid": [
+  {
+   "tau": 0.3,
+   "accuracy": 65.263,
+   "rounds": 1.0,
+   "closeups": 11.284,
+   "tokens": 4308.726,
+   "images": 31.558
+  },
+  {
+   "tau": 0.325,
+   "accuracy": 65.263,
+   "rounds": 1.0,
+   "closeups": 11.284,
+   "tokens": 4308.726,
+   "images": 31.558
+  },
+  {
+   "tau": 0.35,
+   "accuracy": 65.263,
+   "rounds": 1.0,
+   "closeups": 11.284,
+   "tokens": 4308.726,
+   "images": 31.558
+  },
+  {
+   "tau": 0.375,
+   "accuracy": 65.263,
+   "rounds": 1.0,
+   "closeups": 11.284,
+   "tokens": 4308.726,
+   "images": 31.558
+  },
+  {
+   "tau": 0.4,
+   "accuracy": 65.263,
+   "rounds": 1.021,
+   "closeups": 11.453,
+   "tokens": 4551.547,
+   "images": 33.158
+  },
+  {
+   "tau": 0.425,
+   "accuracy": 65.263,
+   "rounds": 1.021,
+   "closeups": 11.453,
+   "tokens": 4551.547,
+   "images": 33.158
+  },
+  {
+   "tau": 0.45,
+   "accuracy": 64.211,
+   "rounds": 1.053,
+   "closeups": 11.705,
+   "tokens": 5081.589,
+   "images": 36.989
+  },
+  {
+   "tau": 0.475,
+   "accuracy": 65.263,
+   "rounds": 1.105,
+   "closeups": 12.126,
+   "tokens": 5796.768,
+   "images": 42.063
+  },
+  {
+   "tau": 0.5,
+   "accuracy": 66.316,
+   "rounds": 1.126,
+   "closeups": 12.295,
+   "tokens": 5945.074,
+   "images": 43.032
+  },
+  {
+   "tau": 0.525,
+   "accuracy": 66.316,
+   "rounds": 1.158,
+   "closeups": 12.505,
+   "tokens": 6132.084,
+   "images": 44.295
+  },
+  {
+   "tau": 0.55,
+   "accuracy": 66.316,
+   "rounds": 1.158,
+   "closeups": 12.505,
+   "tokens": 6132.084,
+   "images": 44.295
+  },
+  {
+   "tau": 0.575,
+   "accuracy": 66.316,
+   "rounds": 1.2,
+   "closeups": 12.842,
+   "tokens": 6567.758,
+   "images": 47.305
+  },
+  {
+   "tau": 0.6,
+   "accuracy": 66.316,
+   "rounds": 1.211,
+   "closeups": 12.926,
+   "tokens": 6755.368,
+   "images": 48.716
+  },
+  {
+   "tau": 0.625,
+   "accuracy": 63.158,
+   "rounds": 1.274,
+   "closeups": 13.432,
+   "tokens": 7458.305,
+   "images": 53.474
+  },
+  {
+   "tau": 0.65,
+   "accuracy": 63.158,
+   "rounds": 1.284,
+   "closeups": 13.516,
+   "tokens": 7604.568,
+   "images": 54.421
+  },
+  {
+   "tau": 0.675,
+   "accuracy": 64.211,
+   "rounds": 1.305,
+   "closeups": 13.684,
+   "tokens": 7798.832,
+   "images": 55.726
+  },
+  {
+   "tau": 0.7,
+   "accuracy": 64.211,
+   "rounds": 1.358,
+   "closeups": 14.105,
+   "tokens": 8570.263,
+   "images": 60.779
+  },
+  {
+   "tau": 0.725,
+   "accuracy": 65.263,
+   "rounds": 1.379,
+   "closeups": 14.274,
+   "tokens": 8811.779,
+   "images": 62.8
+  },
+  {
+   "tau": 0.75,
+   "accuracy": 65.263,
+   "rounds": 1.389,
+   "closeups": 14.358,
+   "tokens": 8890.695,
+   "images": 63.242
+  },
+  {
+   "tau": 0.775,
+   "accuracy": 65.263,
+   "rounds": 1.4,
+   "closeups": 14.442,
+   "tokens": 9115.905,
+   "images": 64.8
+  },
+  {
+   "tau": 0.8,
+   "accuracy": 64.211,
+   "rounds": 1.432,
+   "closeups": 14.695,
+   "tokens": 9387.453,
+   "images": 67.137
+  },
+  {
+   "tau": 0.825,
+   "accuracy": 65.263,
+   "rounds": 1.474,
+   "closeups": 15.032,
+   "tokens": 9997.063,
+   "images": 71.368
+  },
+  {
+   "tau": 0.85,
+   "accuracy": 64.211,
+   "rounds": 1.484,
+   "closeups": 15.116,
+   "tokens": 10035.347,
+   "images": 71.789
+  },
+  {
+   "tau": 0.875,
+   "accuracy": 65.263,
+   "rounds": 1.537,
+   "closeups": 15.537,
+   "tokens": 10675.674,
+   "images": 76.484
+  },
+  {
+   "tau": 0.9,
+   "accuracy": 65.263,
+   "rounds": 1.558,
+   "closeups": 15.705,
+   "tokens": 10786.853,
+   "images": 77.621
+  },
+  {
+   "tau": 0.925,
+   "accuracy": 64.211,
+   "rounds": 1.6,
+   "closeups": 16.042,
+   "tokens": 11128.442,
+   "images": 79.789
+  },
+  {
+   "tau": 0.95,
+   "accuracy": 64.211,
+   "rounds": 1.653,
+   "closeups": 16.463,
+   "tokens": 12040.168,
+   "images": 85.895
+  },
+  {
+   "tau": 0.975,
+   "accuracy": 64.211,
+   "rounds": 1.716,
+   "closeups": 16.968,
+   "tokens": 12767.484,
+   "images": 90.821
+  },
+  {
+   "tau": 1.0,
+   "accuracy": 64.211,
+   "rounds": 2.263,
+   "closeups": 21.347,
+   "tokens": 17842.011,
+   "images": 126.779
+  }
+ ]
+}
