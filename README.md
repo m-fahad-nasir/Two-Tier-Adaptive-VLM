@@ -1,4 +1,34 @@
-# Two-Tier Visual Memory for Efficient Video Question Answering
+<h1 align="center">
+  Two-Tier Visual Memory for Efficient Video Question Answering
+</h1>
+
+<h3 align="center">
+  Training-free frame selection for edge-to-cloud Vision-Language Model inference
+</h3>
+
+<div align="center">
+  <a href="https://scholar.google.com/citations?user=g9gcbl0AAAAJ&hl=en&oi=ao">Muhammad Fahad Nasir</a> &nbsp;•&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=fZkn9poAAAAJ">Mobeen ur Rehman</a> &nbsp;
+</div>
+
+<h4 align="center">
+  <!-- <a href=""><b>Paper</b></a> &nbsp;•&nbsp;  -->
+  <a href="https://www.youtube.com/@Dr._Irfan_Robotics_Lab_KU"><b>Video</b></a>
+</h4>
+
+<div align="center">
+
+<img height="65" alt="image" src="https://github.com/user-attachments/assets/f9af6b5d-b8f3-4ca9-9398-d1d01cea6262" />  &nbsp;&nbsp; <img height="65" alt="image" src="https://github.com/user-attachments/assets/5dd33fad-d340-4fa4-b47b-6b2c3e44819a"  />&nbsp;&nbsp; <img height="65" alt="image" src="https://github.com/user-attachments/assets/b50ab72b-f752-4941-9a6a-b0a0cfcecaa7" />
+
+
+</div>
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+
+
+## Overview
 
 Training-free video question answering that reduces a video to **two kinds of visual evidence** before it reaches
 the VLM:
